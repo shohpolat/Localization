@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Localization</string>
+    <string name="default_text">This is default text</string>
+</resources>
